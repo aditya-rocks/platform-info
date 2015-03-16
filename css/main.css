@@ -1,0 +1,28 @@
+body 
+{
+background-size:cover;
+background-repeat:no-repeat;
+}
+table{
+background-color:#85C1F5;
+width:498px;
+border:1px solid #fff;
+height:500px;
+}
+input,select{
+width:220px;
+border:0;
+border-radius:5px;
+}
+#header{
+background-color:#E96D63;
+color:#F4BA70;
+}
+#search{
+border: 1px solid #fff;
+width:500px;
+background-color:#85C1F5;
+}
+font{
+font-size:25px;
+}

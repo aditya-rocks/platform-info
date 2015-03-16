@@ -1,0 +1,42 @@
+body 
+{
+background-color:#4A789C;
+}
+table{
+background-color:#85C1F5;
+}
+table{
+border:1px solid #fff;
+text-align:justify;
+height:490px;
+}
+input,select{
+width:220px;
+border:0;
+border-radius:5px;
+}
+#tot{
+width:1000px;
+}
+#tab{
+width:500px;
+float:left;
+}
+#image{
+width:500px;
+float:right;
+}
+#base{
+background-color:#E96D63;
+color:#F4BA70;
+}
+#sign{
+background-color:#E96D63;
+color:#F4BA70;
+}
+#image img{
+width:500px;
+position:absolute;
+top: 30%;
+left: 50%;
+}
